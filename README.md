@@ -1,5 +1,5 @@
 # NameGenerator
-Character name generator. Current datasets include Harry Potter characters and Star Wars characters. Code modified from the Pytorch Dino Name Generator (https://github.com/judahsemi/Dino-Name-Generator). Dataset from https://www.kaggle.com/datasets/zez000/characters-in-harry-potter-books.
+Character name generator. Current datasets include Harry Potter characters and Star Wars characters. Code modified from the Pytorch Dino Name Generator (https://github.com/judahsemi/Dino-Name-Generator). Dataset from https://www.kaggle.com/datasets/zez000/characters-in-harry-potter-books and https://github.com/dennisbakhuis/wookieepediascience.
 
 ## Cleaning data
 Use data.ipynb to pre-process the name list for the LSTM deep learning model.
